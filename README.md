@@ -13,8 +13,8 @@ Asegúrate de tener los siguientes requisitos previos instalados:
 
 ### 1. Clonar el repositorio
 
-- `git clone`
-- `cd ListofProductsApp`
+- `git clone https://github.com/Juanjoo97/ListofProducts.git`
+- `cd ListofProducts`
 - `npm run dev`
 - Abrir el [http://localhost:3000](http://localhost:3000) o el link en donde te ejecuta el localhost
 
